@@ -50,4 +50,4 @@ Launch the utility without arguments to enter the interactive terminal managemen
 ---
 
 ## 📝 License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU PUBLIC License. See `LICENSE` for more information.
